@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @exito2577
-- 👀 I’m interested in Data analytics and Data Engineering
+- 👀 I’m passionate about Data analytics and Data Engineering
 - 🌱 I’m currently learning 
 - 📫 How to reach me ...
 
